@@ -1,1 +1,1 @@
-web: uvicorn --app-dir "ruhi di" ruhidi:app --host 0.0.0.0 --port 8000
+web: uvicorn --app-dir ruhidi ruhidi:app --host 0.0.0.0 --port 8000
